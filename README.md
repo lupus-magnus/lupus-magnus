@@ -18,7 +18,7 @@ But you all can call me Matt, that's alright.
 <hr>
 <br>
 
-## Languages and Technologies
+## Languages, Tools and Technologies
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -28,8 +28,7 @@ But you all can call me Matt, that's alright.
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="Pyhon" width="26px" src="https://img.icons8.com/ios/452/python.png" />
-
+<img align="left" alt="Pyhon" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
@@ -44,6 +43,20 @@ But you all can call me Matt, that's alright.
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
+<br>
+<hr>
+<br>
 
+## Latest Projects
+
+- [HelloBank](https://github.com/lupus-magnus/gamabank-accenture) : Backend of a fake banking system, made with Node.js and Hapi. 
+- [Covid News](https://covid19-hoje.netlify.app/) : React.js front end application integrated with two different API's for world most current data about the COVID situation.
+- [Lupus Mirrors](https://lupus-mirrors.netlify.app/) : A frontend application designed to practice CSS, HTML and React skills. It mimics the login page of Facebook, Instagram and Netflix, both for desktop and mobile views.
+
+<br>
+<hr>
+<br>
+
+## Github Stats: 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lupus-magnus)](https://github.com/anuraghazra/github-readme-stats)
