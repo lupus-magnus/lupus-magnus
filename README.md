@@ -52,6 +52,12 @@ But you all can call me Matt, that's alright.
 [<img align="left" alt="LupusMagnus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/matheus-cardoso-993767206/)
 📫 How to reach me: cardoso.lupus.magnus@gmail.com
 
+
+
 ## Github Stats: 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lupus-magnus)](https://github.com/anuraghazra/github-readme-stats)
+
+# Thank you!
+
+<img align="center" alt="LupusMagnus | Programming gif" width="80%" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/200.gif">
