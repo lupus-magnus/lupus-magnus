@@ -9,13 +9,8 @@ But you all can call me Matt, that's alright.
 - 🤝 I'm looking to colaborate with other devs.
 - 🤪 Fun fact: Lupus Magnus comes from "magna lupus dei", which I thought meant "The Great Wolf God" when I was younger.
 
-## I'm also present at:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/matheus-cardoso-993767206/)
-📫 How to reach me: cardoso.lupus.magnus@gmail.com
 
-<br>
-<hr>
 <br>
 
 ## Languages, Tools and Technologies
@@ -42,20 +37,20 @@ But you all can call me Matt, that's alright.
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br>
 
-<br>
-<hr>
-<br>
 
 ## Latest Projects
 
-- [HelloBank](https://github.com/lupus-magnus/gamabank-accenture) : Backend of a fake banking system, made with Node.js and Hapi. 
+- [HelloBank](https://github.com/lupus-magnus/gamabank-accenture) : Backend of a fake banking system, made with Node.js and Hapi. Currently working on the frontend part.
 - [Covid News](https://covid19-hoje.netlify.app/) : React.js front end application integrated with two different API's for world most current data about the COVID situation.
 - [Lupus Mirrors](https://lupus-mirrors.netlify.app/) : A frontend application designed to practice CSS, HTML and React skills. It mimics the login page of Facebook, Instagram and Netflix, both for desktop and mobile views.
 
-<br>
-<hr>
-<br>
+
+## I'm also present at:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/matheus-cardoso-993767206/)
+📫 How to reach me: cardoso.lupus.magnus@gmail.com
 
 ## Github Stats: 
 
