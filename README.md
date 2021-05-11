@@ -7,11 +7,11 @@ But you all can call me Matt, that's alright.
 - 💻 I'm currently working on an end-to-end project of a fake banking system.
 - 📅 2021 Goals: Get a job in web development and colaborate with open-source projects.
 - 🤝 I'm looking to colaborate with other devs.
-- 🤪 Fun fact: Lupus Magnus comes from "lupus magna dei", which I thought meant "The Great Wolf God" when I was younger.
+- 🤪 Fun fact: Lupus Magnus comes from "magna lupus dei", which I thought meant "The Great Wolf God" when I was younger.
 
 ## I'm also present at:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/matheus-cardoso-993767206/]
 
 
 
