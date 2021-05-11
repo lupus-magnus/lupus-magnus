@@ -11,7 +11,7 @@ But you all can call me Matt, that's alright.
 
 ## I'm also present at:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/matheus-cardoso-993767206/]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/matheus-cardoso-993767206/)
 
 
 
