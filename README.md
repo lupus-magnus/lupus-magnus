@@ -7,7 +7,9 @@
   <img align="center" width="80%" alt="LupusMagnus | Programming gif" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/200.gif" />         
 </h1>
 
-But you all can call me Matt, that's alright. 
+<p align="right" height="11px">
+  But you all can call me Matt, that's alright.
+</p>
 
 ## I'm a Nuclear Reactor Physics Researcher and Developer.
 
