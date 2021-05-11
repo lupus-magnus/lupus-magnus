@@ -58,6 +58,6 @@ But you all can call me Matt, that's alright.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lupus-magnus)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1 align="center>
+<h1 align="center">
   <img align="center" alt="LupusMagnus | Programming gif" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/200.gif" />         
 </h1>
