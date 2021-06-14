@@ -67,6 +67,12 @@
 
 
 ## Github Stats: 
+<div align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lupus-magnus)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lupus-magnus)](https://github.com/anuraghazra/github-readme-stats)
+### Top Languages on my GitHub
+<div align="center">
+  [![Top Languages on my GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=lupus-magnus&layout=compact&?true&theme=radical)](https://github.com/lupus-magnus/lupus-magnus/edit/main/README.md)
 
+</div>
