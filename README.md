@@ -71,6 +71,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lupus-magnus)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top Languages on my GitHub
-
-  [![Top Languages on my GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=lupus-magnus&layout=compact&?true&theme=radical)](https://github.com/lupus-magnus/lupus-magnus/edit/main/README.md)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lupus-magnus&theme=tokyonight)
 
