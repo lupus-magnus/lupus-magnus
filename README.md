@@ -72,9 +72,3 @@
   <img align="center" width="45%" alt="LupusMagnus | Programming gif" src="https://github-readme-stats.vercel.app/api?username=lupus-magnus&theme=gruvbox" />         
 </h4>
 
-
-### Top Languages on my GitHub
-
-<h4 align="center">
-  <img align="center" width="45%" alt="LupusMagnus | Programming gif" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lupus-magnus&theme=gruvbox" />         
-</h4>
