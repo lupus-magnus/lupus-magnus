@@ -74,5 +74,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lupus-magnus&theme=gruvbox)
 
 <h1 align="center">
-  <img align="center" width="80%" alt="LupusMagnus | Programming gif" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lupus-magnus&theme=gruvbox" />         
+  <img align="center" width="50%" alt="LupusMagnus | Programming gif" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lupus-magnus&theme=gruvbox" />         
 </h1>
