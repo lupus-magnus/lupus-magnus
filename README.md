@@ -69,6 +69,6 @@
 
 
 <h4 align="center">
-  <img align="center" width="45%" alt="LupusMagnus | Programming gif" src="https://github-readme-stats.vercel.app/api?username=lupus-magnus&theme=gruvbox" />         
+  <img align="center" width="75%" alt="LupusMagnus | Programming gif" src="https://github-readme-stats.vercel.app/api?username=lupus-magnus&theme=gruvbox" />         
 </h4>
 
