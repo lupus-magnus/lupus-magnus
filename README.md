@@ -70,9 +70,23 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lupus-magnus&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+
 ### Top Languages on my GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lupus-magnus&theme=gruvbox)
 
-<h1 align="center">
-  <img align="center" width="50%" alt="LupusMagnus | Programming gif" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lupus-magnus&theme=gruvbox" />         
-</h1>
+
+## Github Stats: 
+
+
+<h4 align="center">
+  <img align="center" width="30%" alt="LupusMagnus | Programming gif" src="https://github-readme-stats.vercel.app/api?username=lupus-magnus&theme=gruvbox" />         
+</h4>
+
+
+### Top Languages on my GitHub
+
+<h4 align="center">
+  <img align="center" width="30%" alt="LupusMagnus | Programming gif" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lupus-magnus&theme=gruvbox" />         
+</h4>
