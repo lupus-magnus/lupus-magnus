@@ -16,16 +16,16 @@
 
 ## I'm a Nuclear Reactor Physics Researcher and Developer.
 
-- 💻 I'm currently working on [my first mobile application](), using React Native and Expo.
+- 💻 I'm currently working on [my first mobile application](https://github.com/lupus-magnus/informed), using React Native and Expo.
 - 📅 2021 Goals: 
     - [x] Get a job in web development 
     - [x] Create my first mobile application
+    - [x] Get experience with TypeScript development
+    - [x] Master React JS
+    - [ ] Become a master at backend development.
     - [ ] Colaborate with open-source projects.
-    - [ ] Become a master in both mobile applications and backend development.
-- 🤝 I'm looking to colaborate with other devs.
+- 🤝 I'm looking forward to colaborate with other devs in side projects.
 - 🤪 Fun fact: Lupus Magnus comes from "magna lupus dei", which I thought meant "The Great Wolf God" when I was younger.
-
-
 
 <br>
 
@@ -58,9 +58,10 @@
 
 ## Latest Projects
 
+- [Informed](https://github.com/lupus-magnus/informed) : A frontend application designed to practice CSS, HTML and React skills. It mimics the login page of Facebook, Instagram and Netflix, both for desktop and mobile views.
+
 - [HelloBank](https://github.com/lupus-magnus/gamabank-accenture) : Backend of a fake banking system, made with Node.js and Hapi. Currently working on the frontend part.
 - [Covid News](https://covid19-hoje.netlify.app/) : React.js front end application integrated with two different API's for world most current data about the COVID situation.
-- [Lupus Mirrors](https://lupus-mirrors.netlify.app/) : A frontend application designed to practice CSS, HTML and React skills. It mimics the login page of Facebook, Instagram and Netflix, both for desktop and mobile views.
 
 
 ## I'm also present at:
