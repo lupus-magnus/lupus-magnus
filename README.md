@@ -19,9 +19,9 @@
 - 💻 I'm currently working on [my first mobile application](https://github.com/lupus-magnus/informed), using React Native and Expo.
 - 📅 2021 Goals: 
     - [x] Get a job in web development 
+    - [x] Master React JS
     - [x] Create my first mobile application
     - [x] Get experience with TypeScript development
-    - [x] Master React JS
     - [ ] Become a master at backend development.
     - [ ] Colaborate with open-source projects.
 - 🤝 I'm looking forward to colaborate with other devs in side projects.
