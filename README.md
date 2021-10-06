@@ -16,8 +16,11 @@
 
 ## I'm a Nuclear Reactor Physics Researcher and Developer.
 
-- 💻 I'm currently working on an end-to-end project of a fake banking system.
-- 📅 2021 Goals: Get a job in web development and colaborate with open-source projects.
+- 💻 I'm currently working on [my first mobile application](), using React Native and Expo.
+- 📅 2021 Goals: 
+- - [x] Get a job in web development 
+- - [ ] Colaborate with open-source projects.
+- - [ ] Become a master in both mobile applications and backend development.
 - 🤝 I'm looking to colaborate with other devs.
 - 🤪 Fun fact: Lupus Magnus comes from "magna lupus dei", which I thought meant "The Great Wolf God" when I was younger.
 
