@@ -18,10 +18,10 @@
 
 - 💻 I'm currently working on [my first mobile application](), using React Native and Expo.
 - 📅 2021 Goals: 
-    [x] Get a job in web development 
-    [x] Create my first mobile application
-    [ ] Colaborate with open-source projects.
-    [ ] Become a master in both mobile applications and backend development.
+    - [x] Get a job in web development 
+    - [x] Create my first mobile application
+    - [ ] Colaborate with open-source projects.
+    - [ ] Become a master in both mobile applications and backend development.
 - 🤝 I'm looking to colaborate with other devs.
 - 🤪 Fun fact: Lupus Magnus comes from "magna lupus dei", which I thought meant "The Great Wolf God" when I was younger.
 
