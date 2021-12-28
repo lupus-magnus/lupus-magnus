@@ -20,11 +20,12 @@
 - 📅 2021 Goals: 
     - [x] Get a job in web development 
     - [x] Master React JS
-    - [x] Create my first mobile application
+    - [x] Create my first mobile application using React Native
     - [x] Get experience with TypeScript development
+    - [x] Create a bot for telegram.
+    - [x] Create my first CRUD using Django
+    - [ ] Create my first CRUD using Django REST Framework
     - [ ] Become a master at backend development.
-    - [ ] Create a bot for telegram.
-    - [ ] Create my first CRUDs using Django and Django REST Framework
 - 🤝 I'm looking forward to colaborate with other devs in side projects.
 - 🤪 Fun fact: Lupus Magnus comes from "magna lupus dei", which I thought meant "The Great Wolf God" when I was younger.
 
