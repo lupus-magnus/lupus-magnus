@@ -18,13 +18,13 @@
 
 - 💻 I'm currently working on [my first mobile application](https://github.com/lupus-magnus/informed), using React Native and Expo.
 - 📅 2022 Goals: 
-    - [ ] Become a master in ReactJs and NextJs
-    - [ ] Gain experience developing backend with Nodejs and its frameworks
-    - [ ] Create my first CRUD using Django REST Framework (with custom User model and JWT)
-    - [ ] Become experienced with Django REST Framework for backend.
-    - [x] Participate in NLWs for React, React Native and NodeJs.
-    - [ ] Become a certified pentester with good security knowledge.
-    - [ ] Understand more about databases, where to host them and infrastructure.
+    - [ ] Becoming a master in ReactJs and NextJs
+    - [ ] Gaining experience developing backend with Nodejs and its frameworks
+    - [ ] Creating my first CRUD using Django REST Framework (with custom User model and JWT)
+    - [ ] Becoming experienced with Django REST Framework for backend.
+    - [x] Participating in NLWs for React, React Native and NodeJs.
+    - [ ] Becoming a certified pentester with good security knowledge.
+    - [ ] Understanding more about databases, where to host them and infrastructure.
     - [x] Developing more elaborated C++ code for robotics and IoT.
 - 🤝 I'm looking forward to colaborate with other devs in side projects.
 - 🤪 Fun fact: Lupus Magnus comes from "magna lupus dei", which I thought meant "The Great Wolf God" when I was younger.
