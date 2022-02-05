@@ -60,9 +60,10 @@
 
 ## Latest Projects
 
-- [Informed](https://github.com/lupus-magnus/informed) : A frontend application designed to practice CSS, HTML and React skills. It mimics the login page of Facebook, Instagram and Netflix, both for desktop and mobile views.
+- [Informed](https://github.com/lupus-magnus/informed) : A mobile application made with React Native + Expo. It serves the user a daily dose of custom news according to his/her interests, and helps you plan for the weekend with the weather forecast notifications feature.
 
 - [HelloBank](https://github.com/lupus-magnus/gamabank-accenture) : Backend of a fake banking system, made with Node.js and Hapi. Currently working on the frontend part.
+
 - [Covid News](https://covid19-hoje.netlify.app/) : React.js front end application integrated with two different API's for world most current data about the COVID situation.
 
 
