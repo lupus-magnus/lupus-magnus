@@ -14,7 +14,8 @@
 <br>
 <br>
 
-## I'm a Nuclear Reactor Physics Researcher and Developer.
+## I'm a Problem Solver.
+###  Software Developer, Electronics and IoT Hobbyist, Nuclear Reactor Physics Researcher.
 
 - 💻 I'm currently working on [my first mobile application](https://github.com/lupus-magnus/informed), using React Native and Expo.
 - 📅 2022 Goals: 
