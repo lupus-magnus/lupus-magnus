@@ -8,7 +8,7 @@
 </h1>
 
 <p align="right" height="11px">
-  But you all can call me Matt, that's alright.
+  But you can call me Matt.
 </p>
 
 <br>
