@@ -22,7 +22,7 @@
     - [ ] Becoming a master in ReactJs and NextJs
     - [ ] Gaining experience developing backend with Nodejs and its frameworks
     - [ ] Creating my first CRUD using Django REST Framework (with custom User model and JWT)
-    - [ ] Becoming experienced with Django REST Framework for backend.
+    - [ ] Having a good grasp of product design knowledge.
     - [x] Participating in NLWs for React, React Native and NodeJs.
     - [ ] Becoming a certified pentester with good security knowledge.
     - [ ] Understanding more about databases, where to host them and infrastructure.
