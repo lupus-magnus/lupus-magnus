@@ -19,15 +19,13 @@
 
 - 💻 I'm currently working on [my first mobile application](https://github.com/lupus-magnus/informed), using React Native and Expo.
 - 📅 2022 Goals: 
-    - [ ] Becoming a master in ReactJs and NextJs
+    - [x] Becoming a master in ReactJs and NextJs
     - [ ] Become experienced at SEO.
     - [ ] Better understand advanced CSS techniques.
     - [ ] HTML optimal semantic and accessibility.
     - [ ] Gaining experience developing backend with Nodejs and its frameworks
-    - [ ] Creating my first CRUD using Django REST Framework (with custom User model and JWT)
     - [ ] Having a good grasp of product design knowledge.
     - [x] Participating in NLWs for React, React Native and NodeJs.
-    - [ ] Becoming a certified pentester with good security knowledge.
     - [ ] Understanding more about databases, where to host them and infrastructure.
     - [x] Developing more elaborated C++ code for robotics and IoT.
 - 🤝 I'm looking forward to colaborate with other devs in side projects.
