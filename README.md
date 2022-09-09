@@ -4,8 +4,7 @@
 
 
 <h1 align="center">
-  <img align="center" width="80%" alt="LupusMagnus | Programming gif" src="
-https://user-images.githubusercontent.com/71194923/189269724-09209613-c2ed-4fea-8a06-a30dd8849212.mp4" />         
+  <img align="center" width="80%" alt="LupusMagnus | Programming gif" src="https://user-images.githubusercontent.com/71194923/189270037-c2f0600a-b943-4061-863f-d9d17144c413.gif" />         
 </h1>
 
 <p align="right" height="11px">
