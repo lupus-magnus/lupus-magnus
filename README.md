@@ -17,7 +17,10 @@
 ## I'm a Problem Solver.
 ###  Software Developer, Electronics and IoT Hobbyist, Nuclear Reactor Physics Researcher.
 
-- 💻 I'm currently working on [my first mobile application](https://github.com/lupus-magnus/informed), using React Native and Expo.
+- 💻 I'm currently working on my own business, a platform oriented towards teaching mathematics.
+- 🤝 I'm looking forward to colaborate with other devs in side projects.
+- 🤪 Fun fact: Lupus Magnus comes from "magna lupus dei", which I thought meant "The Great Wolf God" when I was younger.
+
 - 📅 2022 Goals: 
     - [x] Becoming a master in ReactJs and NextJs
     - [x] Become experienced at SEO.
@@ -28,8 +31,6 @@
     - [x] Participating in NLWs for React, React Native and NodeJs.
     - [ ] Understanding more about databases, where to host them and infrastructure.
     - [x] Developing more elaborated C++ code for robotics and IoT.
-- 🤝 I'm looking forward to colaborate with other devs in side projects.
-- 🤪 Fun fact: Lupus Magnus comes from "magna lupus dei", which I thought meant "The Great Wolf God" when I was younger.
 
 <br>
 
