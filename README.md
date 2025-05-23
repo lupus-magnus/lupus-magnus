@@ -21,16 +21,12 @@
 - 🤝 I'm looking forward to colaborate with other devs in side projects.
 - 🤪 Fun fact: Lupus Magnus comes from "magna lupus dei", which I thought meant "The Great Wolf God" when I was younger.
 
-- 📅 2022 Goals: 
-    - [x] Becoming a master in ReactJs and NextJs
-    - [x] Become experienced at SEO.
-    - [x] Better understand advanced CSS techniques.
-    - [x] HTML optimal semantic and accessibility.
-    - [x] Gaining experience developing backend with Nodejs and its frameworks
-    - [x] Having a good grasp of product design knowledge.
-    - [x] Participating in NLWs for React, React Native and NodeJs.
-    - [ ] Understanding more about databases, where to host them and infrastructure.
-    - [x] Developing more elaborated C++ code for robotics and IoT.
+- 📅 Current Goals:
+    - [ ] Obtain AWS certifications
+    - [ ] Gaining experience with Django and Python
+    - [ ] Be experienced in Kubernetes
+    - [ ] Practice with NestJS
+    - [ ] Experiment with new NextJS practices
 
 <br>
 
